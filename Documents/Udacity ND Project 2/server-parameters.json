@@ -1,0 +1,19 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "gaProject"
+	},
+	{
+		"ParameterKey": "AMItoUse",
+		"ParameterValue": "ami-0729e439b6769d6ab"
+	},
+	{
+		"ParameterKey": "Keypair",
+		"ParameterValue": "gaKey"
+	},
+	{
+		"ParameterKey": "InstanceToUse",
+		"ParameterValue": "t2.micro"
+	}
+]
+

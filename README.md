@@ -25,6 +25,7 @@ This cloudformation script creates the resources for the Udagram application
 - Bastion host not implemented in this commit
 - Creates a Load balancer
 
+Although the instances are to read from a private s3 bucket using the instance profile with s3ReadRole but this will be implemented later.
 
 Run the create cloudformation script in BASH:
 > `bash cloudformation.sh`

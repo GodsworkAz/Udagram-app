@@ -22,7 +22,7 @@ This cloudformation script creates the resources for the Udagram application
 - Creates an auto-scaling group (minimum of 4 and maximum of 5 instances)
 - Creates security groups to allow http
 - Create instance profile and IAM role for S3 Read access. Associate the instance profile with the instances (not implemented in this commit)
-- Bastion host not implemented in this commit
+- Bastion host not implemented
 - Creates a Load balancer
 
 Although the instances are to read from a private s3 bucket using the instance profile with s3ReadRole but this will be implemented later.

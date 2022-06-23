@@ -94,8 +94,6 @@ Resources:
       # AMI ID of Ubuntu machine
       ImageId: !Ref AMItoUse 
       # Key-pair name
-      KeyName: gaKey
-      # Use web server security group created earlier
       SecurityGroups:
       - Ref: WebServerSecGroup
       # Specify instance type based on parameters, default is t3.mediium

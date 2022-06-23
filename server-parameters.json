@@ -8,12 +8,8 @@
 		"ParameterValue": "ami-0729e439b6769d6ab"
 	},
 	{
-		"ParameterKey": "Keypair",
-		"ParameterValue": "gaKey"
-	},
-	{
 		"ParameterKey": "InstanceToUse",
-		"ParameterValue": "t3.medium"
+		"ParameterValue": "t2.micro"
 	}
 ]
 

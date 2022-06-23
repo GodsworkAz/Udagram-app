@@ -27,6 +27,6 @@ This cloudformation script creates the resources for the Udagram application
 
 
 Run the create cloudformation script in BASH:
-> `cloudformation.sh`
+> `bash cloudformation.sh`
 
 This will create both stacks by running two _create.sh_ commands

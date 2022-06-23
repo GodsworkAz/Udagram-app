@@ -32,4 +32,4 @@ Run the create cloudformation script in BASH:
 
 This will create both stacks by running two _create.sh_ commands
 
- [Load balancer DNS hostname](http://ndp2s-webap-ew5a7tug6ivq-1179665809.us-east-1.elb.amazonaws.com/)
+ [Load balancer DNS hostname](http://ndp2s-webap-60oxs41sud47-755452399.us-east-1.elb.amazonaws.com/)

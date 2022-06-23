@@ -12,10 +12,6 @@ Parameters:
       Description: Specify the AMI ID of the web servers
       Type: String
 
-    Keypair:
-      Description: Keypair to use for SSH access to the web servers
-      Type: String
-
     InstanceToUse:
       Description: Instance type, default is t3.medium
       Type: String
